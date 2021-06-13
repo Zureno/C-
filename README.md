@@ -14,8 +14,13 @@ The code uses various built-in windows modules such as winsock2 which will help 
 
 ![image](https://user-images.githubusercontent.com/25875381/121818745-aa344600-cc4e-11eb-9d5e-545288524cbc.png)
 
+****Remote Keylogger****
+
+Text on Notepad.
 
 ![image](https://user-images.githubusercontent.com/25875381/121819040-a86b8200-cc50-11eb-90b0-ff26c999adeb.png)
+
+Receiving text on the reverse shell.
 ![image](https://user-images.githubusercontent.com/25875381/121819056-bb7e5200-cc50-11eb-9bd8-41e8743451bf.png)
 
 

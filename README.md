@@ -21,6 +21,7 @@ Text on Notepad.
 ![image](https://user-images.githubusercontent.com/25875381/121819040-a86b8200-cc50-11eb-90b0-ff26c999adeb.png)
 
 Receiving text on the reverse shell.
+
 ![image](https://user-images.githubusercontent.com/25875381/121819056-bb7e5200-cc50-11eb-9bd8-41e8743451bf.png)
 
 

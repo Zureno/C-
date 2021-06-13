@@ -9,5 +9,8 @@ The code uses various built-in windows modules such as winsock2 which will help 
 
 **Compiled from: Kali Linux (x86_64)****
 
+
+**Remote Information Stealer****
+
 ![image](https://user-images.githubusercontent.com/25875381/121818745-aa344600-cc4e-11eb-9d5e-545288524cbc.png)
 
